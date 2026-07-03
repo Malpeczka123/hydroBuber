@@ -1,0 +1,4 @@
+name: HydroBubble
+version: 1.0
+main: me.hydro.HydroBubble
+api-version: 1.21
